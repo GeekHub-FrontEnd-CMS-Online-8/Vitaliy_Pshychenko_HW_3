@@ -1,0 +1,43 @@
+table {
+margin: 20px auto;
+}
+
+.firstTable thead {
+    text-align: center;
+}
+
+.firstTable thead th {
+    padding: 2px 15px;
+}
+
+td {
+    padding-right: 20px;
+}
+.firstTable,.secondTable {
+    border:1px solid #808080;
+}
+
+td,th {
+    border:1px solid #808080;
+}
+
+.secondTable, .thirdTable {
+    max-width: 600px;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.thirdTable {
+    border:2px outset #808080;
+    border-spacing: initial;
+    text-align: left;
+}
+
+.thirdTable thead th {
+    padding: 2px 10px 2px 5px;
+}
+
+
+
